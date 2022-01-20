@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khsabhishek
 - 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning Ethereum and solana
+- 🌱 I’m currently Working in company called Rapid Innovation as a Blockchain Developer
 - 💞️ I’m looking to collaborate on Blockchain
 - 📫 How to reach me ... Contact me on whatsapp:+91 9985963450 Email:khsabhishek1335@gmail.com
 
