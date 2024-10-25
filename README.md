@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @khsabhishek
 - 👀 I’m interested in Blockchain
 - 🌱 Co-Founder and CTO of Autonomint
-- 💞️ I’m looking to collaborate on Blockchain
 - 📫 How to reach me Email:khsabhishek1335@gmail.com
 
 <!---
